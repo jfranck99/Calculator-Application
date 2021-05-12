@@ -1,0 +1,23 @@
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\bin\Debug\CalculatorFinal.exe.config
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\bin\Debug\CalculatorFinal.exe
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\bin\Debug\CalculatorFinal.pdb
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\bin\Debug\CalculatorFinal.xml
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.vbprojResolveAssemblyReference.cache
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.Form1.resources
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.Resources.resources
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.vbproj.GenerateResource.Cache
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.exe
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.xml
+C:\Users\Rexdu\Desktop\School work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.pdb
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\bin\Debug\CalculatorFinal.exe.config
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\bin\Debug\CalculatorFinal.exe
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\bin\Debug\CalculatorFinal.pdb
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\bin\Debug\CalculatorFinal.xml
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.vbprojAssemblyReference.cache
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.Form1.resources
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.Resources.resources
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.vbproj.GenerateResource.cache
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.exe
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.xml
+C:\Users\Rexdu\Desktop\School-work\College\PBA\Fall 2018\CSC 2303 (Programming II)\CalculatorFinal\CalculatorFinal\obj\Debug\CalculatorFinal.pdb
